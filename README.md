@@ -2,4 +2,7 @@
 
 Deck of cards physical training
 
-Hearts = Squats\nSpades = Push Ups\nClubs = Russian Twists\nDiamonds = Burpies\n
+Hearts = Squats
+Spades = Push Ups
+Clubs = Russian Twists
+Diamonds = Burpies
