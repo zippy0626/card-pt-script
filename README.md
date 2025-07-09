@@ -13,6 +13,8 @@ Fun way to get in shape
 
 ### How to use
 
-Run python with the file `PTCards.py`<br>
+Run python with the file `PTCards.py` in correct directory<br>
+ex. `python PTCards.py`
+
 User will be prompted of how much cards to draw, random option available<br>
 
