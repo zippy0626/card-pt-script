@@ -43,19 +43,19 @@ while True:
     sys.exit()
   
   if (timesDrew >= 1):
-    usrOption = input("Continue? Enter number of cards to draw, 'r' for random, 'q' to quit: ")
+    usrOption = input(" Continue? Enter number of cards to draw, 'r' for random, 'q' to quit: ")
     print("\n")
   else:
-    usrOption = input("Enter number of cards to draw, 'r' for random, 'q' to quit: ")
+    usrOption = input(" Enter number of cards to draw, 'r' for random, 'q' to quit: ")
     print("\n")
   
   try:
     cardsToDraw = checkUserOption(usrOption, deck)
     if (cardsToDraw < 1 or cardsToDraw > len(deck)):
-      print(f" Invalid Input. Please enter a number between 1 and {len(deck)}.\n")
+      print(f"Invalid Input. Please enter a number between 1 and {len(deck)}.\n")
       continue
   except ValueError:
-    print(" Invalid input. Please enter a number, 'r' for random, 'q' to quit.\n")
+    print("Invalid input. Please enter a number, 'r' for random, 'q' to quit.\n")
     continue
   
   timesDrew += 1
