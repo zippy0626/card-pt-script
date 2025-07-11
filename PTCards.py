@@ -25,6 +25,13 @@ def checkUserOption(option):
 deck = Deck()
 
 print("\nCards PT\n\nHearts = Squats\nSpades = Push Ups\nClubs = Russian Twists\nDiamonds = Burpies\n")
+print('''Ace = 14 reps
+King = 13 reps
+Queen = 12 reps
+Jack = 11 reps
+
+eg. Jack of Diamonds = 11 burpees    
+''')
 
 option = input("Enter number of cards to draw, 'r' for random, 'q' to quit: ")
 print()

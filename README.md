@@ -19,18 +19,20 @@ User will be prompted of how much cards to draw, random option available<br>
 
 ### Notes
 
-Hearts = Squats<br>
-Spades = Push Ups<br>
-Clubs = Russian Twists<br>
-Diamonds = Burpees<br>
+```
+Hearts = Squats
+Spades = Push Ups
+Clubs = Russian Twists
+Diamonds = Burpees
 
-Ace = 14 reps<br>
-King = 13 reps<br>
-Queen = 12 reps<br>
-Jack = 11 reps<br>
+Ace = 14 reps
+King = 13 reps
+Queen = 12 reps
+Jack = 11 reps
 
-eg. Jack of Diamonds = 11 burpees<br>
+eg. Jack of Diamonds = 11 burpees
+```
 
 Exercises should be done with minimal time in between cards (1-5 seconds)<br>
 
-You can PT alone, or with a group. If with a group, you will hold a plank until everyone is done with the exercise. When everyone is holding a plank position, you can move on to the next card.
+You can PT alone, or with a group. If with a group, you will hold a plank until everyone is done with the current exercise. When everyone is holding a plank position, you can move on to the next card.<br>
