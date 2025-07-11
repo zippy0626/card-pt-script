@@ -43,6 +43,6 @@ You can PT alone, or with a group. If with a group, you will hold a plank until 
 
 The goal is to complete the whole deck, or at least get through 40 cards.<br>
 
-This should be a maximum effort activity. Try to maintain good form throughout.
+This should be a **maximum effort** activity. Try to maintain good form throughout.
 
 Good luck and hydrate!
