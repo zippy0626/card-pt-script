@@ -10,7 +10,7 @@ Also a fun way to get in shape
 
 ### Preview
 
-<img src="preview.png" alt="preview" width="300">
+<img src="preview.png" alt="preview" width="800">
 
 ### How to use
 
