@@ -8,6 +8,10 @@ To replicate drawing a deck of cards and doing exercises based on the drawn card
 
 Also a fun way to get in shape
 
+### Preview
+
+<img src="preview.png" alt="preview" width="300">
+
 ### How to use
 
 Install python on your machine (Google)<br>
