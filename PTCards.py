@@ -59,6 +59,7 @@ while True:
     number = checkUserOption(option)
     if number < 1 or number > len(deck):
       print(f"  Invalid Input. Please enter a number between 1 and {len(deck)}.\n")
+      continue
   except ValueError:
     print(" Invalid input. Please enter a number, 'r' for random, 'q' to quit.\n")
     continue
