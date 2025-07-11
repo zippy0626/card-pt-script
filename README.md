@@ -9,7 +9,7 @@ Diamonds = Burpies<br>
 
 ### Purpose
 
-To replicate drawing a deck of cards and doing exercises based on the drawn card suit/rank
+To replicate drawing a deck of cards and doing exercises based on the drawn card suit/rank<br>
 Also a fun way to get in shape
 
 ### How to use
