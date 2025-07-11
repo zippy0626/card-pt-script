@@ -40,3 +40,9 @@ eg. Jack of Diamonds = 11 burpees
 Exercises should be done with minimal time in between cards (1-5 seconds)<br>
 
 You can PT alone, or with a group. If with a group, you will hold a plank until everyone is done with the current exercise. When everyone is holding a plank position, you can move on to the next card.<br>
+
+The goal is to complete the whole deck, or at least get through 40 cards.<br>
+
+This should be a maximum effort activity. Try to maintain good form throughout.
+
+Good luck and hydrate!
