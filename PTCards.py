@@ -35,6 +35,7 @@ eg. Jack of Diamonds = 11 burpees
 
 option = input("Enter number of cards to draw, 'r' for random, 'q' to quit: ")
 print()
+print()
 
 number = checkUserOption(option)
 for i in range(number):
@@ -53,6 +54,7 @@ while True:
     sys.exit()
 
   option = input("Continue? Enter number of cards to draw, 'r' for random, 'q' to quit: ")
+  print()
   print()
 
   try:
