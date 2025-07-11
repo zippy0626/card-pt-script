@@ -10,6 +10,8 @@ Also a fun way to get in shape
 
 ### How to use
 
+Install python on your machine (Google)<br>
+
 Run python with the file `PTCards.py` in correct directory<br>
 ex. `python PTCards.py`
 
