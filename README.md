@@ -2,11 +2,6 @@
 
 Deck of cards physical training
 
-Hearts = Squats<br>
-Spades = Push Ups<br>
-Clubs = Russian Twists<br>
-Diamonds = Burpies<br>
-
 ### Purpose
 
 To replicate drawing a deck of cards and doing exercises based on the drawn card suit/rank<br>
@@ -21,6 +16,18 @@ ex. `python PTCards.py`
 User will be prompted of how much cards to draw, random option available<br>
 
 ### Notes
+
+Hearts = Squats<br>
+Spades = Push Ups<br>
+Clubs = Russian Twists<br>
+Diamonds = Burpees<br>
+
+Ace = 14 reps<br>
+King = 13 reps<br>
+Queen = 12 reps<br>
+Jack = 11 reps<br>
+
+eg. Jack of Diamonds = 11 burpees<br>
 
 Exercises should be done with minimal time in between cards (1-5 seconds)<br>
 
