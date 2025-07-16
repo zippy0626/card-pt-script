@@ -35,6 +35,7 @@ eg. Jack of Diamonds = 11 burpees
 cardsToDraw = None
 usrOption = None
 timesDrew = 0
+plankTimeSeconds = 0
 
 ## loop
 while True:
@@ -64,5 +65,7 @@ while True:
     card = deck.draw()
     [amount, exercise] = card.getExercise()
     print(f"{card}: {amount} {exercise}, {amount * 3} sec plank")
+    plankTimeSeconds += (amount * 3)
 
   deck.printCardsRemaining()
+  print(f"{plankTimeSeconds // 60}:{plankTimeSeconds % 60:02d} min total plank")
