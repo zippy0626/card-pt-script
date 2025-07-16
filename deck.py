@@ -25,6 +25,4 @@ class Deck:
     return card
 
   def printCardsRemaining(self):
-    print()
     print(f"{len(self._deck)} card(s) remaining")
-    print()
