@@ -29,8 +29,7 @@ King = 13 reps
 Queen = 12 reps
 Jack = 11 reps
 
-eg. Jack of Diamonds = 11 burpees    
-''')
+(eg. Jack of Diamonds = 11 burpees)''')
 
 cardsToDraw = None
 usrOption = None
@@ -44,11 +43,11 @@ while True:
     sys.exit()
   
   if (timesDrew >= 1):
-    usrOption = input(" Continue? Enter number of cards to draw, 'r' for random, 'q' to quit: ")
-    print("\n")
+    usrOption = input("\nContinue? Enter number of cards to draw, 'r' for random, 'q' to quit: ")
+    print()
   else:
-    usrOption = input(" Enter number of cards to draw, 'r' for random, 'q' to quit: ")
-    print("\n")
+    usrOption = input("\nEnter number of cards to draw, 'r' for random, 'q' to quit: ")
+    print()
   
   try:
     cardsToDraw = checkUserOption(usrOption, deck)
@@ -64,8 +63,9 @@ while True:
   for i in range(cardsToDraw):
     card = deck.draw()
     [amount, exercise] = card.getExercise()
-    print(f"{card}: {amount} {exercise}, {amount * 3} sec plank")
+    print(f"  {card}: {amount} {exercise}, {amount * 3} sec plank")
     plankTimeSeconds += (amount * 3)
 
+  print()
   deck.printCardsRemaining()
-  print(f"{plankTimeSeconds // 60}:{plankTimeSeconds % 60:02d} min total plank")
+  print(f"({plankTimeSeconds // 60}:{plankTimeSeconds % 60:02d} min total plank)")
